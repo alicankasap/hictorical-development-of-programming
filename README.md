@@ -1,7 +1,7 @@
 # Programlamanın Tarihsel Gelişimi
 
 ## 1) Unstructured Programming
-Yapısal olmayan programlama demektir. Uygualamada sadece main() metodu bulunur. İkinci bir metod eklenemez. Kodlar yukarıdan aşağıya doğru sırayla yazılır. Aynı kod bloğuna ihtiyaç duyulduğunda ya kod tekrar yazılır ya da "go to" ile daha önce yazılmış olan kod bloğuna tekrar gönderilir ve kod oradan aşağıya doğru tekrar okunmaya başlanır. Bu tür uygulamalarda tekrar tekrar yazılan kodlar fonksiyona olan ihtiyacı doğurmuştur.
+Yapısal olmayan programlama demektir. Uygulamada sadece main() metodu bulunur. İkinci bir metod eklenemez. Kodlar yukarıdan aşağıya doğru sırayla yazılır. Aynı kod bloğuna ihtiyaç duyulduğunda ya kod tekrar yazılır ya da "go to" ile daha önce yazılmış olan kod bloğuna tekrar gönderilir ve kod oradan aşağıya doğru tekrar okunmaya başlanır. Bu tür uygulamalarda tekrar tekrar yazılan kodlar fonksiyona olan ihtiyacı doğurmuştur.
 
 ## 2) Procedural Programming
 Yordamsal programlama demektir. İstenildiği kadar fonksiyon yazılabilir. Bu fonksiyonlar daha sonra ihtiyaç duyulan her yerde çağrılabilir. Bu programlama tipinde ise yazılan çok sayıda ve birbirinden bağımsız işler yapan fonksiyonlar kod satırları arttıkça yönetilebilirliği zorlaştırmıştır ve nesne tabanlı programlamaya olan ihtiyaç doğmuştur.
